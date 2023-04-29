@@ -145,3 +145,46 @@ a.boton{
     font-size: 20px;
     display: inline-block;
 }
+
+section#contacto{
+    justify-content: space-around; 
+}
+
+article.hablemos{
+    background-color: rgba(175, 89, 158, 0.3);
+    color: #0f0f0f;
+    padding: 12px 20px;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+    
+ul#canales-contacto{
+    display: flex;
+    font-size: 20px;
+   
+}
+
+li.contacto-items1 a{
+    padding: 16px;
+    font-size: 20px;
+    padding-right: 16px;
+    
+}
+ 
+li.contacto-items2 a{
+    padding: 16px;
+    font-size: 20px;
+    padding-right: 16px;
+}
+
+li.contacto-items3 a{
+    padding: 16px;
+    font-size: 20px;
+    padding-right: 16px;
+}
+
+
+
