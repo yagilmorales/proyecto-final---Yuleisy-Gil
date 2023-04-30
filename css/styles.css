@@ -151,7 +151,7 @@ section#contacto{
 }
 
 article.hablemos{
-    background-color: rgba(175, 89, 158, 0.3);
+    background-color: rgba(175,89,158,0.3);
     color: #0f0f0f;
     padding: 12px 20px;
     font-size: 20px;
@@ -164,14 +164,14 @@ article.hablemos{
 ul#canales-contacto{
     display: flex;
     font-size: 20px;
-   
+
 }
 
 li.contacto-items1 a{
     padding: 16px;
     font-size: 20px;
     padding-right: 16px;
-    
+
 }
  
 li.contacto-items2 a{
@@ -186,5 +186,22 @@ li.contacto-items3 a{
     padding-right: 16px;
 }
 
+footer{
+    width: 100%;;
+    color: #fbfbfb;
+    background: #af599e;
+}
 
+.contenedor-footer{
+    font-size: 16px;
+    text-align: center;
+    height: 90px;
+    
+}
 
+.contenedor-footer h3{
+    padding: 20px 20px;
+    display: inline-block;
+    margin: 18px 20px;
+    
+}
